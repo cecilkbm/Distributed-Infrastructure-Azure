@@ -38,7 +38,7 @@ Rather than exposing everything publicly, access is intentionally limited:
     
 The emphasis was on defense-in-depth and least privilege networking, not just deploying services.
 #
-## What I Learned
+## Lessons Learned
   - How to design segmented network architectures in Azure
   - Why separating app and data tiers reduces blast radius
   - Practical use of Network Security Groups for traffic control
@@ -63,6 +63,7 @@ This reinforced that secure infrastructure starts with network design, not tooli
       <img width="414" height="635" alt="Network_Diagram" src="https://github.com/user-attachments/assets/bf250a85-d9cd-46fe-9ec9-dc77294881b8" />
 
 #
+
 
 
 
